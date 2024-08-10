@@ -1,5 +1,6 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 10-08-24
+### Name: SONU S
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,7 +55,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+## Employee:
+![Screenshot 2024-08-10 192200](https://github.com/user-attachments/assets/79b2091d-d7d0-4550-b01b-558cd683e224)
 
+## Weather:
+![Screenshot 2024-08-10 192247](https://github.com/user-attachments/assets/d8760a88-7945-40f1-a552-a0e38798671f)
 
 ### PREPROCESSING
 ### Procedure:
@@ -76,6 +81,14 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+## Employee:
+![Screenshot 2024-08-10 192337](https://github.com/user-attachments/assets/d6aa28fb-4bd6-48f9-868b-951ad8606f9e)
+
+
+## Weather:
+![Screenshot 2024-08-10 192400](https://github.com/user-attachments/assets/28432b55-942e-4b3c-bdfe-ba74642c08e6)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +105,14 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+## Employee:
+
+![Screenshot 2024-08-10 192527](https://github.com/user-attachments/assets/d9f613d9-469e-4bdc-af27-9b8d183dabd3)
+
+## Weather:
+
+![Screenshot 2024-08-10 192549](https://github.com/user-attachments/assets/84354196-f874-4f77-a8e1-ffc215e3a4d7)
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +128,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+## Employee:
+![Screenshot 2024-08-10 192632](https://github.com/user-attachments/assets/2398f2e6-678d-4c2e-bcc7-8dce4698b9b9)
+
+## Weather:
+![Screenshot 2024-08-10 192659](https://github.com/user-attachments/assets/70520c8f-19ab-4ffa-8bf6-512e2f59f397)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
